@@ -1,0 +1,13 @@
+@font-face {
+	font-family: 'robotronica';
+	src: url('./Robotronica.otf');
+	src: url('./Robotronica.ttf'), format('truetype');
+}
+
+h1 {
+	font-family: 'robotronica';
+	font-weight: 100px;
+	font-size: 100px;
+	color: #0ccac4; 
+
+}
